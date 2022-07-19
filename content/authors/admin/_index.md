@@ -33,7 +33,7 @@ education:
       year: 2019-present
     - course: MSc in Condensed Matter Physics and Biological Systems
       institution: Universidad Autónoma de Madrid (UAM)
-      year: 2018-2019
+      year: 2017-2018
     - course: BSc in Physics
       institution: Universidad Autónoma de Madrid (UAM)
       year: 2013-2017
@@ -77,6 +77,6 @@ Hi, I'm Fernando, currently a Phd candidate at the [Theory of Quantum Materials 
 
 I'm passionate about numerical techniques (Quantum Transport, efficient algorithms, DMRG, TNs...) and open-source development mostly in Julia (see my [Github](https://www.github.com/fernandopenaranda) page).
 
-For more details see my #<Experience> list
+For more details see my #publications list
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
