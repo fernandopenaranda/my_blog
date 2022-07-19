@@ -22,28 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Predoctoral Scientific Researcher
+    company: ICMM-CSIC
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2022-03-11'
+    date_end: ''
+    description: Studying topology and correlations in quantum materials and solid state technologies
+  - title: Predoctoral guest student
+    company: QuTech
+    company_logo: org-x
+    date_start: '2021-09-01'
+    date_end: '2021-12-01'
+    description: |2-
+        Probing the helical phase of Bilayer Graphene encapsulated between TMDCs
+        
+        Theoretical-experimental collaboration.
+        
+
+  - title: Predoctoral Scientific Researcher
+    company: FLAG-ERA JTC European project. 'Topograph'
+    company_url: 'https://www.flagera.eu/wp-content/uploads/2019/01/TopoGraph.pdf'
+    company_logo: org-x
+    date_start: '2019-07-08'
+    date_end: '2022-01-31'
+    description: On the theoretical study of topological superconductivity in graphene-based van der Waals heterostructures and providing modelling and support to ongoing experiments
 
 design:
   columns: '2'
