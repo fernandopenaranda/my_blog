@@ -2,6 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+active: false
 
 # This file represents a page section.
 headless: true
@@ -30,6 +31,7 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  
 
 design:
   # Choose a view for the listings:
