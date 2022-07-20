@@ -24,32 +24,29 @@ date_format: Jan 2006
 experience:
   - title: Predoctoral Scientific Researcher
     company: ICMM-CSIC
-    company_logo: org-x
+    company_logo: ICMM
     date_start: '2022-03-11'
     date_end: ''
     description: Studying topology and correlations in quantum materials and solid state technologies
   - title: Predoctoral guest student
-    company: QuTech.
+    company: QuTech
     company_url: 'https://qutech.nl/'
-    company_logo: org-x
+    company_logo: QuTech
     date_start: '2021-09-01'
     date_end: '2021-12-01'
     description: |2-
         Probing the helical phase of Bilayer Graphene encapsulated between TMDCs
-        
-        Theoretical-experimental collaboration.
-        
 
   - title: Predoctoral Scientific Researcher
     company: FLAG-ERA JTC European project. 'Topograph'
     company_url: 'https://www.flagera.eu/wp-content/uploads/2019/01/TopoGraph.pdf'
-    company_logo: org-x
+    company_logo: Flagera
     date_start: '2019-07-08'
     date_end: '2022-01-31'
-    description: On the theoretical study of topological superconductivity in graphene-based van der Waals heterostructures and providing modelling and support to ongoing experiments
+    description: On the theoretical study of topological superconductivity in graphene-based van der Waals heterostructures.
   - title: Collaboration Scholarship
-    company: Condensed Matter Department
-    company_logo: org-x
+    company: Condensed Matter Department, UAM.
+    company_logo: uam
     date_start: '2016-11-08'
     date_end: '2017-07-31'
     description: Probing Majorana non-locality in Oreg-Lutchyn nanowires

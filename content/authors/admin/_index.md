@@ -75,8 +75,8 @@ highlight_name: true
 
 Hi, I'm Fernando, currently a Phd candidate at the [Theory of Quantum Materials and Solid State Quantum Technologies department](https://wp.icmm.csic.es/tqe/people/fernando-penaranda/) at the Material Science Institute of Madrid, Spain. My interests include: topological materials, Majorana physics, and graphene van der Waals heterostructures. My research activity is at the frontier between fundamental physics and its technological applications and, therefore, I deeply enjoy collaborations with experimental groups.
 
-I'm passionate about numerical techniques (Quantum Transport, efficient algorithms, DMRG, TNs...) and open-source development mostly in Julia (see my [Github](https://www.github.com/fernandopenaranda) page).
+I'm passionate about numerical techniques (Quantum Transport, Tight-binding, DMRG, TNs...) and open-source development mostly in Julia (see my [Github](https://www.github.com/fernandopenaranda) page).
 
-For more details see my #publications list
+For more details see my [publications](#publications) list
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
