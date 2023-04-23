@@ -22,11 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Predoctoral Scientific Researcher
+  - title: Predoctoral Researcher
+    company: DIPC
+    company_logo: DIPC
+    date_start: '2023-04-11'
+    date_end: ''
+    description: Multiscale modeling of twisted bilayer graphene
+  - title: Predoctoral Researcher
+    company: UAM
+    company_logo: uam
+    date_start: '2022-09-11'
+    date_end: '2023-04-11'
+    description: Studying novel properties of two-dimensional graphene based-systems
+  - title: Predoctoral Researcher
     company: ICMM-CSIC
     company_logo: ICMM
     date_start: '2022-03-11'
-    date_end: ''
+    date_end: '2022-09-11'
     description: Studying topology and correlations in quantum materials and solid state technologies
   - title: Predoctoral guest student
     company: QuTech
@@ -36,8 +48,8 @@ experience:
     date_end: '2021-12-01'
     description: |2-
         Probing the helical phase of Bilayer Graphene encapsulated between TMDCs
-
-  - title: Predoctoral Scientific Researcher
+        
+  - title: Predoctoral Researcher
     company: FLAG-ERA JTC European project. 'Topograph'
     company_url: 'https://www.flagera.eu/wp-content/uploads/2019/01/TopoGraph.pdf'
     company_logo: Flagera

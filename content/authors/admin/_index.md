@@ -6,15 +6,12 @@ title: Fernando Peñaranda
 superuser: true
 
 # Role/position/tagline
-role: Phd Candidate
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Materials Science Institute (ICMM-CSIC)
-    url: "https://www.icmm.csic.es"
-  - name: Universidad Autónoma de Madrid
-    url: "https://www.uam.es"
-
+  - name: Donostia International Physics Center
+    url: "http://dipc.ehu.es/index.php?lng=eng"
 # Short bio (displayed in user profile at end of posts)
 
 # Interests to show in About widget
@@ -22,7 +19,7 @@ interests:
   - Theoretical Condensed Matter Physics
   - Topological Matter	
   - Majorana physics
-  - Graphene van der Waals heterostructures
+  - Moiré systems
   - Computational Physics
   
 # Education to show in About widget
@@ -30,7 +27,7 @@ education:
   courses:
     - course: PhD in Theoretical Condensed Matter Physics
       institution: Materials Science Institute (ICMM-CSIC)
-      year: 2019-present
+      year: 2019-2023
     - course: MSc in Condensed Matter Physics and Biological Systems
       institution: Universidad Autónoma de Madrid (UAM)
       year: 2017-2018
@@ -73,7 +70,7 @@ email: 'fernando.penaranda@csic.es'
 highlight_name: true
 ---
 
-Hi, I'm Fernando, currently a Phd candidate at the [Theory of Quantum Materials and Solid State Quantum Technologies department](https://wp.icmm.csic.es/tqe/people/fernando-penaranda/) at the Material Science Institute of Madrid, Spain. My interests include: topological materials, Majorana physics, and graphene van der Waals heterostructures. My research activity is at the frontier between fundamental physics and its technological applications and, therefore, I deeply enjoy collaborations with experimental groups.
+Hi, I'm Fernando, currently a postdoctoral researcher at the [Donostia International Physics Center](http://dipc.ehu.es/ferdejuan/people/) and a former Phd candidate at the [Theory of Quantum Materials and Solid State Quantum Technologies department](https://wp.icmm.csic.es/tqe/people/fernando-penaranda/) at the Material Science Institute of Madrid (CSIC). My interests include: topological matter, correlated electrons, Majorana physics, and moiré systems. My research activity is at the frontier between fundamental physics and its technological applications and, therefore, I deeply enjoy collaborations with experimental groups.
 
 I'm passionate about numerical techniques (Quantum Transport, Tight-binding, DMRG, TNs...) and open-source development mostly in Julia (see my [Github](https://www.github.com/fernandopenaranda) page).
 
