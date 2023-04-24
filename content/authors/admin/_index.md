@@ -70,9 +70,9 @@ email: 'fernando.penaranda@csic.es'
 highlight_name: true
 ---
 
-Hi, I'm Fernando, currently a postdoctoral researcher at the [Donostia International Physics Center](http://dipc.ehu.es/ferdejuan/people/) and a former Phd candidate at the [Theory of Quantum Materials and Solid State Quantum Technologies department](https://wp.icmm.csic.es/tqe/people/fernando-penaranda/) at the Material Science Institute of Madrid (CSIC). My interests include: topological matter, correlated electrons, Majorana physics, and moiré systems. My research activity is at the frontier between fundamental physics and its technological applications and, therefore, I deeply enjoy collaborations with experimental groups.
+Hi, I'm Fernando, currently a postdoctoral researcher at the [Donostia International Physics Center](http://dipc.ehu.es/ferdejuan/people/). I obtained my Phd in theoretical condensed matter physics from the [Theory of Quantum Materials and Solid State Quantum Technologies department](https://wp.icmm.csic.es/tqe/people/fernando-penaranda/) at the Material Science Institute of Madrid (CSIC). My interests include: topological matter, correlated electrons, Majorana physics, and moiré systems. My research activity is at the frontier between fundamental physics and its technological applications.
 
-I'm passionate about numerical techniques (Quantum Transport, Tight-binding, DMRG, TNs...) and open-source development mostly in Julia (see my [Github](https://www.github.com/fernandopenaranda) page).
+I'm passionate about scientific computation, numerical techniques (Quantum Transport, Tight-binding, DMRG, TNs...), and open-source development mostly in Julia (see my [Github](https://www.github.com/fernandopenaranda) page).
 
 For more details see my [publications](#publications) list
 
