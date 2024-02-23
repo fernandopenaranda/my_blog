@@ -1,17 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Majorana bound states in encapsulated bilayer graphene
+title: Intrinsic and extrinsic photogalvanic effects in twisted bilayer graphene
 subtitle: ''
 summary: ''
 authors:
 - Fernando Peñaranda
-- Ramón Aguado
-- Elsa Prada
-- Pablo San-Jose
+- Hector Ochoa
+- Fernando de Juan
 tags: []
 categories: []
-date: '2023-01-01'
+date: '2024-01-26'
 lastmod: 2023-04-23T20:27:06+02:00
 featured: false
 draft: false
@@ -30,13 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-23T18:27:06.690290Z'
+publishDate: 
 publication_types:
 - '2'
 abstract: ''
-publication: '*SciPost Phys*'
-doi: 10.21468/SciPostPhys.14.4.075
+publication: '*arXiv*'
+doi: 10.48550/arXiv.2401.15005
 links:
 - name: URL
-  url: https://scipost.org/10.21468/SciPostPhys.14.4.075
+  url: https://doi.org/10.48550/arXiv.2401.15005
 ---

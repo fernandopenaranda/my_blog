@@ -1,18 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Majorana bound states in encapsulated bilayer graphene
+title: Supercurrent mediated by helical edge modes in bilayer graphene
 subtitle: ''
 summary: ''
 authors:
+- Prasanna Rout
+- Nikos Papadopoulos
 - Fernando Peñaranda
-- Ramón Aguado
+- Kenji Watanabe
+- Takashi Taniguchi
 - Elsa Prada
 - Pablo San-Jose
+- Srijit Goswami 
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2023-04-23T20:27:06+02:00
+date: '2024-01-29'
+lastmod:
 featured: false
 draft: false
 
@@ -34,9 +38,10 @@ publishDate: '2023-04-23T18:27:06.690290Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*SciPost Phys*'
-doi: 10.21468/SciPostPhys.14.4.075
+publication: '*Nature Communications*'
+doi: 10.1038/s41467-024-44952-6
 links:
 - name: URL
-  url: https://scipost.org/10.21468/SciPostPhys.14.4.075
+  url: https://doi.org/10.1038/s41467-024-44952-6
 ---
+Prasanna Rout, Nikos Papadopoulos, Fernando Peñaranda, Kenji Watanabe, Takashi Taniguchi, Elsa Prada, Pablo San-Jose & Srijit Goswami 

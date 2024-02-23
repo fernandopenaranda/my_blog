@@ -34,7 +34,7 @@ publishDate: '2022-07-19T11:15:37.573031Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. Lett.*'
+publication: '*Phys. Rev. Lett*'
 doi: 10.1103/PhysRevLett.125.214301
 links:
 - name: URL
