@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:fernandopenaranda/fernandopenaranda.github.io.git
 	branch = main
+[submodule "fernandopenaranda.github.io"]
+	path = fernandopenaranda.github.io
+	url = git@github.com:fernandopenaranda/fernandopenaranda.github.io.git
+	branch = main
