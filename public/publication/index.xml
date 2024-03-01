@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Fernando Peñaranda</title>
+    <link>https://fernandopenaranda.github.io/publication/</link>
+      <atom:link href="https://fernandopenaranda.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fernandopenaranda.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://fernandopenaranda.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Supercurrent mediated by helical edge modes in bilayer graphene</title>
+      <link>https://fernandopenaranda.github.io/publication/rout-nc-2024/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://fernandopenaranda.github.io/publication/rout-nc-2024/</guid>
+      <description>&lt;p&gt;Prasanna Rout, Nikos Papadopoulos, Fernando Peñaranda, Kenji Watanabe, Takashi Taniguchi, Elsa Prada, Pablo San-Jose &amp;amp; Srijit Goswami&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intrinsic and extrinsic photogalvanic effects in twisted bilayer graphene</title>
+      <link>https://fernandopenaranda.github.io/publication/penaranda-a-2024/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://fernandopenaranda.github.io/publication/penaranda-a-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Majorana bound states in encapsulated bilayer graphene</title>
+      <link>https://fernandopenaranda.github.io/publication/penaranda-sp-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://fernandopenaranda.github.io/publication/penaranda-sp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nontopological zero-bias peaks in full-shell nanowires induced by flux-tunable Andreev states</title>
+      <link>https://fernandopenaranda.github.io/publication/valentini-s-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://fernandopenaranda.github.io/publication/valentini-s-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flat Bands in Magic-Angle Vibrating Plates</title>
+      <link>https://fernandopenaranda.github.io/publication/lopez-prl-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://fernandopenaranda.github.io/publication/lopez-prl-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Even-odd effect and Majorana states in full-shell nanowires</title>
+      <link>https://fernandopenaranda.github.io/publication/penaranda-prr-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://fernandopenaranda.github.io/publication/penaranda-prr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-hermitian topology as a unifying framework for the Andreev versus Majorana states controversy</title>
+      <link>https://fernandopenaranda.github.io/publication/avila-ncp-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://fernandopenaranda.github.io/publication/avila-ncp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying wave-function overlaps in inhomogeneous Majorana nanowires</title>
+      <link>https://fernandopenaranda.github.io/publication/penaranda-prb-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://fernandopenaranda.github.io/publication/penaranda-prb-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
